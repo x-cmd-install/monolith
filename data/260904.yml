@@ -7,7 +7,7 @@ about:
   head: a6fc8d0
   archived: false
   latestVersion: v2.10.1
-  collectedAt: 2026-09-04T19:53:16Z
+  collectedAt: 2026-09-04T20:50:50Z
 timeline:
   created: 2017-02-20
   lastCommit: 2026-05-25
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 15463
   watcher: 68
-  fork: 472
+  fork: 473
   release: 26
   contributor: 31
   pullRequest: 313
@@ -86,5 +86,68 @@ total:
   openIssue: 63
   commit: 678
 ---
+path: /home/runner/.x-repo/github.com/y2z/monolith
+collectedAt: 2026-09-04T20:50:51Z
+loc:
+  Rust:
+    code: 7213
+    comments: 717
+    blanks: 1073
+    files: 61
+  Html:
+    code: 123
+    comments: 0
+    blanks: 11
+    files: 13
+  Toml:
+    code: 71
+    comments: 2
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 57
+    comments: 1
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 35
+    comments: 2
+    blanks: 12
+    files: 1
+  Svg:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 3
+  Dockerfile:
+    code: 14
+    comments: 0
+    blanks: 6
+    files: 1
+  Css:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 4
+  Sh:
+    code: 7
+    comments: 1
+    blanks: 2
+    files: 1
+  JavaScript:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 189
+    blanks: 104
+    files: 1
+total:
+  code: 7567
+  comments: 935
+  blanks: 1223
+  files: 89
 ---
 

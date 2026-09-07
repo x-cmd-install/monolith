@@ -5,13 +5,13 @@ about:
   head: a6fc8d0
   archived: false
   latestVersion: "v2.10.1"
-  collectedAt: 2026-09-07T05:42:50Z
+  collectedAt: 2026-09-07T18:43:44Z
 timeline:
   created: 2017-02-20
   lastCommit: 2026-05-25
   lastRelease: 2025-03-30
 popularity:
-  star: 15469
+  star: 15467
   watcher: 69
   fork: 473
   release: 26
@@ -85,7 +85,7 @@ total:
   commit: 678
 ---
 path: /home/runner/.x-repo/github.com/y2z/monolith
-collectedAt: 2026-09-07T05:42:52Z
+collectedAt: 2026-09-07T18:43:45Z
 loc:
   Rust:
     code: 7213
@@ -151,7 +151,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:42:53+00:00
+  collectedAt: 2026-09-07T18:43:47+00:00
   platform:
     darwin/arm64:
       name:  null

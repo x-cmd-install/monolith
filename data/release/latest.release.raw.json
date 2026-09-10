@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6992152,
       "digest": null,
-      "download_count": 776,
+      "download_count": 778,
       "created_at": "2025-03-30T02:43:16Z",
       "updated_at": "2025-03-30T02:43:16Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.10.1/monolith-gnu-linux-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6485544,
       "digest": null,
-      "download_count": 228,
+      "download_count": 229,
       "created_at": "2025-03-30T02:43:00Z",
       "updated_at": "2025-03-30T02:43:00Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.10.1/monolith-gnu-linux-armhf"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12434488,
       "digest": null,
-      "download_count": 23362,
+      "download_count": 23375,
       "created_at": "2025-03-30T02:43:48Z",
       "updated_at": "2025-03-30T02:43:49Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.10.1/monolith-gnu-linux-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5582848,
       "digest": null,
-      "download_count": 7597,
+      "download_count": 7600,
       "created_at": "2025-03-30T02:51:12Z",
       "updated_at": "2025-03-30T02:51:13Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.10.1/monolith.exe"

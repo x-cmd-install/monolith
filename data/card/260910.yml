@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.1"
   latestRelease: "v2.10.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:45:55Z
+  collectedAt: 2026-09-10T20:29:02Z
 timeline:
   created: 2017-02-20
   lastCommit: 2026-05-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-03-30
   lastPrerelease: 
 popularity:
-  star: 15471
+  star: 15470
   watcher: 69
   fork: 473
   release: 26
@@ -89,7 +89,7 @@ total:
   commit: 678
 ---
 path: /home/runner/.x-repo/github.com/y2z/monolith
-collectedAt: 2026-09-10T05:45:56Z
+collectedAt: 2026-09-10T20:29:02Z
 loc:
   Rust:
     code: 7213

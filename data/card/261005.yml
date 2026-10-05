@@ -154,4 +154,3 @@ total:
 ---
 
 ---
-{"id":403271602,"author":{"login":"snshn","id":1392048,"node_id":"MDQ6VXNlcjEzOTIwNDg=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBOtSXc4YCW-y","tag_name":"v2.11.0","target_commitish":"master","name":"monolith v2.11.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-04T23:05:20Z","updated_at":"2026-10-05T00:23:14Z","published_at":"2026-10-05T00:23:14Z","assets":[],"body":"- MHTML output format (`-m` CLI flag)\r\n- `-D` / `--create-dirs` CLI flag to automatically create non-existing directories\r\n- bugfixes related to unwrapping of NOSCRIPT elements\r\n- proper escaping of `</script>` tags within embedded JS\r\n- fixed a bug related to not sending all Cookies\r\n- webmanifest now gets embedded into the document\r\n- SVG symbols no longer can embed the entire image\r\n- properly handle `module` and `importmap` script types"}

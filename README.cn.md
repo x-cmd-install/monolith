@@ -14,13 +14,13 @@ x install monolith
 
 ## 代码洞察
 
-合计: **7,722** 行代码（覆盖前 5 种语言、共 **77** 个文件）。
+合计: **7,937** 行代码（覆盖前 5 种语言、共 **79** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 7,377 | 739 | 1,092 | 61 |
-| Html | 123 | 0 | 11 | 13 |
-| Toml | 71 | 2 | 8 | 1 |
+| Rust | 7,582 | 762 | 1,122 | 62 |
+| Html | 132 | 0 | 11 | 14 |
+| Toml | 67 | 1 | 7 | 1 |
 | Yaml | 57 | 1 | 0 | 1 |
 | Makefile | 35 | 2 | 12 | 1 |
 
@@ -32,37 +32,27 @@ x install monolith
 
 ## 发布
 
-- **最新版本**: `v2.10.1` (2025-03-30)
+- **最新版本**: `v2.11.0` (2026-10-05)
 - **最近提交**: 2026-10-04
-- **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 15,508 · **Fork**: 474 · **开放 issue**: 183 · **贡献者**: 33
+- **Star**: 15,509 · **Fork**: 475 · **开放 issue**: 183 · **贡献者**: 34
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 284 · **开放 PR**: 10 · **已关闭 issue**: 121 · **开放 issue**: 62 · **提交数**: 684
+- **发布数**: 27 · **已合并 PR**: 289 · **开放 PR**: 3 · **已关闭 issue**: 124 · **开放 issue**: 59 · **提交数**: 689
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 3 | 1 | 0 | 0 | 5 |
-| last60d | 2026-08-05 | 0 | 4 | 2 | 0 | 0 | 6 |
-| 90d | 2026-07-06 | 0 | 4 | 2 | 1 | 2 | 6 |
-| last180d | 2026-04-07 | 0 | 5 | 4 | 1 | 3 | 8 |
-| 360d | 2025-10-09 | 0 | 6 | 6 | 6 | 7 | 9 |
-| last720d | 2024-10-14 | 3 | 48 | 10 | 16 | 11 | 79 |
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [monolith-gnu-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.10.1/monolith-gnu-linux-aarch64) | 6.7 MiB | `native/linux/arm64/glibc` |
-| [monolith-gnu-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.10.1/monolith-gnu-linux-armhf) | 6.2 MiB | `native/linux/arm/glibc` |
-| [monolith-gnu-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.10.1/monolith-gnu-linux-x86_64) | 11.9 MiB | `native/linux/x64/glibc` |
-| [monolith.exe](https://github.com/y2z/monolith/releases/download/v2.10.1/monolith.exe) | 5.3 MiB | `other` |
+| 30d | 2026-09-05 | 1 | 7 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-06 | 1 | 9 | 0 | 0 | 0 | 10 |
+| 90d | 2026-07-07 | 1 | 9 | 0 | 2 | 1 | 11 |
+| last180d | 2026-04-08 | 1 | 10 | 0 | 2 | 2 | 13 |
+| 360d | 2025-10-10 | 1 | 11 | 0 | 8 | 5 | 14 |
+| last720d | 2024-10-15 | 4 | 53 | 3 | 18 | 9 | 84 |
 
 ## 改进这些数据
 
@@ -73,4 +63,4 @@ monolith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T06:40:02Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T06:30:00Z._

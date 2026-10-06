@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Y2Z/monolith/releases/403271602",
-  "assets_url": "https://api.github.com/repos/Y2Z/monolith/releases/403271602/assets",
-  "upload_url": "https://uploads.github.com/repos/Y2Z/monolith/releases/403271602/assets{?name,label}",
-  "html_url": "https://github.com/Y2Z/monolith/releases/tag/v2.11.0",
-  "id": 403271602,
+  "url": "https://api.github.com/repos/Y2Z/monolith/releases/404180263",
+  "assets_url": "https://api.github.com/repos/Y2Z/monolith/releases/404180263/assets",
+  "upload_url": "https://uploads.github.com/repos/Y2Z/monolith/releases/404180263/assets{?name,label}",
+  "html_url": "https://github.com/Y2Z/monolith/releases/tag/v2.11.1",
+  "id": 404180263,
   "author": {
     "login": "snshn",
     "id": 1392048,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBOtSXc4YCW-y",
-  "tag_name": "v2.11.0",
+  "node_id": "RE_kwDOBOtSXc4YF00n",
+  "tag_name": "v2.11.1",
   "target_commitish": "master",
-  "name": "monolith v2.11.0",
+  "name": "monolith v2.11.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-04T23:05:20Z",
-  "updated_at": "2026-10-05T00:23:14Z",
-  "published_at": "2026-10-05T00:23:14Z",
+  "created_at": "2026-10-05T23:44:56Z",
+  "updated_at": "2026-10-05T23:55:30Z",
+  "published_at": "2026-10-05T23:55:30Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/Y2Z/monolith/tarball/v2.11.0",
-  "zipball_url": "https://api.github.com/repos/Y2Z/monolith/zipball/v2.11.0",
-  "body": "- MHTML output format (`-m` CLI flag)\r\n- `-D` / `--create-dirs` CLI flag to automatically create non-existing directories\r\n- bugfixes related to unwrapping of NOSCRIPT elements\r\n- proper escaping of `</script>` tags within embedded JS\r\n- fixed a bug related to not sending all Cookies\r\n- webmanifest now gets embedded into the document\r\n- SVG symbols no longer can embed the entire image\r\n- properly handle `module` and `importmap` script types"
+  "tarball_url": "https://api.github.com/repos/Y2Z/monolith/tarball/v2.11.1",
+  "zipball_url": "https://api.github.com/repos/Y2Z/monolith/zipball/v2.11.1",
+  "body": "- concurrent retrieval of remote assets\r\n- `libssl` is no longer a required dependency"
 }

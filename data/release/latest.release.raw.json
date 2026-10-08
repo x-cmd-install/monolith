@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10303928,
       "digest": "sha256:0215d316036c31aaacacb7287fdd32d620a952daae23d1d0f986e7af8eab5b38",
-      "download_count": 16,
+      "download_count": 35,
       "created_at": "2026-10-06T13:15:26Z",
       "updated_at": "2026-10-06T13:15:27Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.2/monolith-gnu-linux-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8856200,
       "digest": "sha256:c5df4c48a412b10a7d91823922519a558b103fdf926e6be0b65785f36134430e",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-06T13:15:29Z",
       "updated_at": "2026-10-06T13:15:30Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.2/monolith-gnu-linux-armhf"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11236408,
       "digest": "sha256:392c1422a3bf31082d41d2c05fcc2ed8a675d2ab3aea65c5db5c82e43911d71b",
-      "download_count": 58,
+      "download_count": 128,
       "created_at": "2026-10-06T13:15:17Z",
       "updated_at": "2026-10-06T13:15:18Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.2/monolith-gnu-linux-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7712256,
       "digest": "sha256:0da084e67b17903642273fc9348d61ffd1938da0acc59b0b63477d3276185a73",
-      "download_count": 60,
+      "download_count": 121,
       "created_at": "2026-10-06T13:16:59Z",
       "updated_at": "2026-10-06T13:17:00Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.2/monolith.exe"
@@ -183,5 +183,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/Y2Z/monolith/tarball/v2.11.2",
   "zipball_url": "https://api.github.com/repos/Y2Z/monolith/zipball/v2.11.2",
-  "body": "- separate GUI binary to compliment CLI"
+  "body": "- separate GUI binary to compliment CLI",
+  "reactions": {
+    "url": "https://api.github.com/repos/Y2Z/monolith/releases/404721721/reactions",
+    "total_count": 4,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 1
+  }
 }

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10303928,
       "digest": "sha256:0215d316036c31aaacacb7287fdd32d620a952daae23d1d0f986e7af8eab5b38",
-      "download_count": 53,
+      "download_count": 59,
       "created_at": "2026-10-06T13:15:26Z",
       "updated_at": "2026-10-06T13:15:27Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.2/monolith-gnu-linux-aarch64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11236408,
       "digest": "sha256:392c1422a3bf31082d41d2c05fcc2ed8a675d2ab3aea65c5db5c82e43911d71b",
-      "download_count": 196,
+      "download_count": 256,
       "created_at": "2026-10-06T13:15:17Z",
       "updated_at": "2026-10-06T13:15:18Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.2/monolith-gnu-linux-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7712256,
       "digest": "sha256:0da084e67b17903642273fc9348d61ffd1938da0acc59b0b63477d3276185a73",
-      "download_count": 149,
+      "download_count": 189,
       "created_at": "2026-10-06T13:16:59Z",
       "updated_at": "2026-10-06T13:17:00Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.2/monolith.exe"

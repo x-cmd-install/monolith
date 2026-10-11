@@ -14,11 +14,11 @@ x install monolith
 
 ## Code insight
 
-Total: **8,644** lines of code across **82** files in the top 5 languages.
+Total: **8,647** lines of code across **82** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,229 | 768 | 1,200 | 64 |
+| Rust | 8,232 | 768 | 1,201 | 64 |
 | Html | 130 | 0 | 11 | 14 |
 | Yaml | 96 | 1 | 4 | 2 |
 | Toml | 91 | 1 | 9 | 1 |
@@ -32,37 +32,37 @@ Total: **8,644** lines of code across **82** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.11.2` (2026-10-06)
-- **Last commit**: 2026-10-07
+- **Latest**: `v2.11.3` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 15,520 · **Forks**: 477 · **Open issues**: 183 · **Contributors**: 35
+- **Stars**: 15,517 · **Forks**: 477 · **Open issues**: 183 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 303 · **Open PRs**: 4 · **Closed issues**: 133 · **Open issues**: 50 · **Commits**: 710
+- **Releases**: 30 · **Merged PRs**: 306 · **Open PRs**: 4 · **Closed issues**: 134 · **Open issues**: 49 · **Commits**: 713
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 3 | 21 | 1 | 0 | 0 | 30 |
-| last60d | 2026-08-11 | 3 | 22 | 1 | 0 | 0 | 31 |
-| 90d | 2026-07-12 | 3 | 23 | 1 | 3 | 0 | 32 |
-| last180d | 2026-04-13 | 3 | 24 | 1 | 3 | 1 | 34 |
-| 360d | 2025-10-15 | 3 | 25 | 1 | 10 | 3 | 35 |
-| last720d | 2024-10-20 | 6 | 67 | 4 | 21 | 6 | 105 |
+| 30d | 2026-09-11 | 4 | 24 | 1 | 0 | 0 | 33 |
+| last60d | 2026-08-12 | 4 | 25 | 1 | 0 | 0 | 33 |
+| 90d | 2026-07-13 | 4 | 26 | 1 | 3 | 0 | 35 |
+| last180d | 2026-04-14 | 4 | 27 | 1 | 3 | 1 | 37 |
+| 360d | 2025-10-16 | 4 | 28 | 1 | 10 | 3 | 37 |
+| last720d | 2024-10-21 | 7 | 70 | 4 | 21 | 6 | 108 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [monolith-gnu-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.11.2/monolith-gnu-linux-aarch64) | 9.8 MiB | `native/linux/arm64/glibc` |
-| [monolith-gnu-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.11.2/monolith-gnu-linux-armhf) | 8.4 MiB | `native/linux/arm/glibc` |
-| [monolith-gnu-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.11.2/monolith-gnu-linux-x86_64) | 10.7 MiB | `native/linux/x64/glibc` |
-| [monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.2/monolith.exe) | 7.4 MiB | `other` |
+| [monolith-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith-linux-aarch64) | 6.9 MiB | `native/linux/arm64` |
+| [monolith-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith-linux-armhf) | 5.9 MiB | `native/linux/arm` |
+| [monolith-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith-linux-x86_64) | 7.8 MiB | `native/linux/x64` |
+| [monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith.exe) | 5.2 MiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:33:49Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:32:24Z._

@@ -14,13 +14,13 @@ x install monolith
 
 ## 代码洞察
 
-合计: **8,647** 行代码（覆盖前 5 种语言、共 **82** 个文件）。
+合计: **9,116** 行代码（覆盖前 5 种语言、共 **84** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 8,232 | 768 | 1,201 | 64 |
+| Rust | 8,700 | 797 | 1,266 | 66 |
 | Html | 130 | 0 | 11 | 14 |
-| Yaml | 96 | 1 | 4 | 2 |
+| Yaml | 97 | 1 | 4 | 2 |
 | Toml | 91 | 1 | 9 | 1 |
 | Makefile | 35 | 2 | 12 | 1 |
 
@@ -32,37 +32,39 @@ x install monolith
 
 ## 发布
 
-- **最新版本**: `v2.11.3` (2026-10-10)
-- **最近提交**: 2026-10-10
-- **Release 含资产**: 4 个
+- **最新版本**: `v2.11.5` (2026-10-12)
+- **最近提交**: 2026-10-12
+- **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 15,516 · **Fork**: 477 · **开放 issue**: 183 · **贡献者**: 35
+- **Star**: 15,520 · **Fork**: 477 · **开放 issue**: 183 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 30 · **已合并 PR**: 306 · **开放 PR**: 4 · **已关闭 issue**: 134 · **开放 issue**: 49 · **提交数**: 713
+- **发布数**: 32 · **已合并 PR**: 311 · **开放 PR**: 3 · **已关闭 issue**: 134 · **开放 issue**: 49 · **提交数**: 720
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 4 | 24 | 1 | 0 | 0 | 33 |
-| last60d | 2026-08-13 | 4 | 25 | 1 | 0 | 0 | 33 |
-| 90d | 2026-07-14 | 4 | 26 | 1 | 3 | 0 | 35 |
-| last180d | 2026-04-15 | 4 | 27 | 1 | 3 | 1 | 37 |
-| 360d | 2025-10-17 | 4 | 28 | 1 | 10 | 3 | 37 |
-| last720d | 2024-10-22 | 7 | 70 | 4 | 21 | 6 | 108 |
+| 30d | 2026-09-13 | 6 | 29 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-14 | 6 | 30 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-15 | 6 | 31 | 0 | 3 | 0 | 0 |
+| last180d | 2026-04-16 | 6 | 32 | 0 | 3 | 1 | 0 |
+| 360d | 2025-10-18 | 6 | 32 | 0 | 10 | 3 | 0 |
+| last720d | 2024-10-23 | 9 | 75 | 3 | 21 | 6 | 115 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [monolith-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith-linux-aarch64) | 6.9 MiB | `native/linux/arm64` |
-| [monolith-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith-linux-armhf) | 5.9 MiB | `native/linux/arm` |
-| [monolith-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith-linux-x86_64) | 7.8 MiB | `native/linux/x64` |
-| [monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.3/monolith.exe) | 5.2 MiB | `other` |
+| [monolith-cli-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli-linux-aarch64) | 6.9 MiB | `native/linux/arm64` |
+| [monolith-cli-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli-linux-armhf) | 5.9 MiB | `native/linux/arm` |
+| [monolith-cli-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli-linux-x86_64) | 7.8 MiB | `native/linux/x64` |
+| [monolith-cli.exe](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli.exe) | 5.2 MiB | `other` |
+| [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.11.5/Monolith-x86_64.AppImage) | 34.0 MiB | `other` |
+| [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.5/Monolith.exe) | 10.1 MiB | `other` |
 
 ## 改进这些数据
 
@@ -73,4 +75,4 @@ monolith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:51:01Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:45:15Z._

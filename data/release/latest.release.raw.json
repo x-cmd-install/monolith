@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7213664,
       "digest": "sha256:0bb463dbc5e4e9b47ca27ad5c9ef3f36061089f847d8f3a98c17dc998a11c68e",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-10-12T16:08:52Z",
       "updated_at": "2026-10-12T16:08:53Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/monolith-cli-linux-aarch64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8157160,
       "digest": "sha256:73ef9548d6843321c0e0529976ec4d1fa7d8de90fd7e1b7214c643ee351f4096",
-      "download_count": 26,
+      "download_count": 45,
       "created_at": "2026-10-12T16:08:29Z",
       "updated_at": "2026-10-12T16:08:30Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/monolith-cli-linux-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5446144,
       "digest": "sha256:d686e8a99ecc1c939d8ea173b5e725723d4e5bc38eae630b8983bbd8d9889886",
-      "download_count": 29,
+      "download_count": 55,
       "created_at": "2026-10-12T16:09:00Z",
       "updated_at": "2026-10-12T16:09:00Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/monolith-cli.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 35648704,
       "digest": "sha256:0178bb797bd3d624b1d247021dff6b13ad493b97038273381b58282f890ed0e6",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-12T16:11:08Z",
       "updated_at": "2026-10-12T16:11:11Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/Monolith-x86_64.AppImage"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10597888,
       "digest": "sha256:d8322a2342cd6df6d661318203f931744d8ed8e29ed11275d88508b3b3390150",
-      "download_count": 184,
+      "download_count": 205,
       "created_at": "2026-10-12T16:12:33Z",
       "updated_at": "2026-10-12T16:12:34Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/Monolith.exe"

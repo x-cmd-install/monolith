@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8157160,
       "digest": "sha256:73ef9548d6843321c0e0529976ec4d1fa7d8de90fd7e1b7214c643ee351f4096",
-      "download_count": 45,
+      "download_count": 72,
       "created_at": "2026-10-12T16:08:29Z",
       "updated_at": "2026-10-12T16:08:30Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/monolith-cli-linux-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5446144,
       "digest": "sha256:d686e8a99ecc1c939d8ea173b5e725723d4e5bc38eae630b8983bbd8d9889886",
-      "download_count": 55,
+      "download_count": 76,
       "created_at": "2026-10-12T16:09:00Z",
       "updated_at": "2026-10-12T16:09:00Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/monolith-cli.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10597888,
       "digest": "sha256:d8322a2342cd6df6d661318203f931744d8ed8e29ed11275d88508b3b3390150",
-      "download_count": 205,
+      "download_count": 215,
       "created_at": "2026-10-12T16:12:33Z",
       "updated_at": "2026-10-12T16:12:34Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.11.5/Monolith.exe"
@@ -258,14 +258,14 @@
   "body": "- decode unlabeled CSS and frames using their document's encoding",
   "reactions": {
     "url": "https://api.github.com/repos/Y2Z/monolith/releases/410789692/reactions",
-    "total_count": 2,
-    "+1": 0,
+    "total_count": 5,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
-    "eyes": 0
+    "eyes": 1
   }
 }

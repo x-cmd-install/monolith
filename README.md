@@ -14,11 +14,11 @@ x install monolith
 
 ## Code insight
 
-Total: **9,116** lines of code across **84** files in the top 5 languages.
+Total: **9,497** lines of code across **86** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,700 | 797 | 1,266 | 66 |
+| Rust | 9,081 | 824 | 1,300 | 68 |
 | Html | 130 | 0 | 11 | 14 |
 | Yaml | 97 | 1 | 4 | 2 |
 | Toml | 91 | 1 | 9 | 1 |
@@ -32,39 +32,39 @@ Total: **9,116** lines of code across **84** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.11.5` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Latest**: `v2.11.6` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 15,519 · **Forks**: 477 · **Open issues**: 183 · **Contributors**: 36
+- **Stars**: 15,520 · **Forks**: 478 · **Open issues**: 183 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 311 · **Open PRs**: 3 · **Closed issues**: 134 · **Open issues**: 49 · **Commits**: 720
+- **Releases**: 33 · **Merged PRs**: 320 · **Open PRs**: 2 · **Closed issues**: 134 · **Open issues**: 49 · **Commits**: 730
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 6 | 29 | 0 | 0 | 0 | 40 |
-| last60d | 2026-08-17 | 6 | 29 | 0 | 0 | 0 | 40 |
-| 90d | 2026-07-18 | 6 | 31 | 0 | 2 | 0 | 42 |
-| last180d | 2026-04-19 | 6 | 32 | 0 | 3 | 1 | 44 |
-| 360d | 2025-10-21 | 6 | 32 | 0 | 10 | 3 | 44 |
-| last720d | 2024-10-26 | 9 | 75 | 3 | 21 | 6 | 115 |
+| 30d | 2026-09-17 | 7 | 38 | 0 | 0 | 0 | 50 |
+| last60d | 2026-08-18 | 7 | 38 | 0 | 0 | 0 | 50 |
+| 90d | 2026-07-19 | 7 | 40 | 0 | 2 | 0 | 52 |
+| last180d | 2026-04-20 | 7 | 41 | 0 | 3 | 1 | 54 |
+| 360d | 2025-10-22 | 7 | 41 | 0 | 10 | 3 | 54 |
+| last720d | 2024-10-27 | 10 | 84 | 2 | 21 | 6 | 125 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [monolith-cli-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli-linux-aarch64) | 6.9 MiB | `native/linux/arm64` |
-| [monolith-cli-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli-linux-armhf) | 5.9 MiB | `native/linux/arm` |
-| [monolith-cli-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli-linux-x86_64) | 7.8 MiB | `native/linux/x64` |
-| [monolith-cli.exe](https://github.com/y2z/monolith/releases/download/v2.11.5/monolith-cli.exe) | 5.2 MiB | `other` |
-| [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.11.5/Monolith-x86_64.AppImage) | 34.0 MiB | `other` |
-| [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.5/Monolith.exe) | 10.1 MiB | `other` |
+| [monolith-cli-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.11.6/monolith-cli-linux-aarch64) | 7.0 MiB | `native/linux/arm64` |
+| [monolith-cli-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.11.6/monolith-cli-linux-armhf) | 6.0 MiB | `native/linux/arm` |
+| [monolith-cli-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.11.6/monolith-cli-linux-x86_64) | 7.8 MiB | `native/linux/x64` |
+| [monolith-cli.exe](https://github.com/y2z/monolith/releases/download/v2.11.6/monolith-cli.exe) | 5.2 MiB | `other` |
+| [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.11.6/Monolith-x86_64.AppImage) | 34.0 MiB | `other` |
+| [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.6/Monolith.exe) | 10.1 MiB | `other` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:23:02Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:14:08Z._

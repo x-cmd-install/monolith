@@ -48,12 +48,12 @@ Total: **9,497** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 7 | 38 | 0 | 0 | 0 | 50 |
-| last60d | 2026-08-21 | 7 | 38 | 0 | 0 | 0 | 50 |
-| 90d | 2026-07-22 | 7 | 40 | 0 | 2 | 0 | 52 |
-| last180d | 2026-04-23 | 7 | 41 | 0 | 3 | 1 | 54 |
-| 360d | 2025-10-25 | 7 | 41 | 0 | 10 | 3 | 54 |
-| last720d | 2024-10-30 | 10 | 84 | 2 | 21 | 6 | 125 |
+| 30d | 2026-09-21 | 7 | 38 | 0 | 0 | 0 | 50 |
+| last60d | 2026-08-22 | 7 | 38 | 0 | 0 | 0 | 50 |
+| 90d | 2026-07-23 | 7 | 40 | 0 | 2 | 0 | 52 |
+| last180d | 2026-04-24 | 7 | 41 | 0 | 3 | 1 | 54 |
+| 360d | 2025-10-26 | 7 | 41 | 0 | 10 | 3 | 54 |
+| last720d | 2024-10-31 | 10 | 84 | 2 | 21 | 6 | 125 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:45:38Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:30:41Z._

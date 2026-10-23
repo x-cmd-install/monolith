@@ -38,7 +38,7 @@ Total: **9,497** lines of code across **86** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,524 · **Forks**: 479 · **Open issues**: 183 · **Contributors**: 37
+- **Stars**: 15,523 · **Forks**: 480 · **Open issues**: 183 · **Contributors**: 37
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **9,497** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 7 | 38 | 0 | 0 | 0 | 50 |
-| last60d | 2026-08-23 | 7 | 38 | 0 | 0 | 0 | 50 |
-| 90d | 2026-07-24 | 7 | 40 | 0 | 2 | 0 | 52 |
-| last180d | 2026-04-25 | 7 | 41 | 0 | 3 | 1 | 54 |
-| 360d | 2025-10-27 | 7 | 41 | 0 | 10 | 3 | 54 |
-| last720d | 2024-11-01 | 10 | 84 | 2 | 20 | 6 | 125 |
+| 30d | 2026-09-23 | 7 | 38 | 0 | 0 | 0 | 50 |
+| last60d | 2026-08-24 | 7 | 38 | 0 | 0 | 0 | 50 |
+| 90d | 2026-07-25 | 7 | 40 | 0 | 1 | 0 | 52 |
+| last180d | 2026-04-26 | 7 | 41 | 0 | 3 | 1 | 54 |
+| 360d | 2025-10-28 | 7 | 41 | 0 | 9 | 3 | 54 |
+| last720d | 2024-11-02 | 10 | 84 | 2 | 20 | 6 | 125 |
 
 ## Release assets
 
@@ -66,6 +66,18 @@ Total: **9,497** lines of code across **86** files in the top 5 languages.
 | [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.11.6/Monolith-x86_64.AppImage) | 34.0 MiB | `other` |
 | [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.6/Monolith.exe) | 10.1 MiB | `other` |
 
+## Distribution status
+
+Reported by **35** distros on [repology.org](https://repology.org/project/monolith). **4** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.10.1` | ⚠️ outdated |
+| Homebrew | `2.11.6` | ✅ latest |
+| Nix unstable | `2.10.1` | ⚠️ outdated |
+| Void | `2.8.3` | ⚠️ outdated |
+| Alpine edge | `2.10.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `monolith` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +87,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:31:02Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:40:45Z._

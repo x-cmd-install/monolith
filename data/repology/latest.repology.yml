@@ -199,6 +199,13 @@
   origversion: null
   status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
+- repo: homebrew
+  srcname: monolith
+  visiblename: monolith
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI tool for saving complete web pages as a single HTML file
 - repo: macports
   srcname: www/monolith
   binname: monolith

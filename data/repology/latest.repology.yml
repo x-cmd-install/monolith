@@ -358,9 +358,9 @@
   srcname: www/monolith
   binname: monolith
   visiblename: www/monolith
-  version: 2.11.2
+  version: 2.11.6
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -378,9 +378,9 @@
 - repo: t2
   srcname: monolith
   visiblename: monolith
-  version: 2.11.5
+  version: 2.11.6
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - rene@exactco.de

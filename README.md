@@ -14,11 +14,11 @@ x install monolith
 
 ## Code insight
 
-Total: **9,580** lines of code across **87** files in the top 5 languages.
+Total: **9,612** lines of code across **87** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,164 | 840 | 1,316 | 69 |
+| Rust | 9,196 | 842 | 1,322 | 69 |
 | Html | 130 | 0 | 11 | 14 |
 | Yaml | 97 | 1 | 4 | 2 |
 | Toml | 91 | 1 | 9 | 1 |
@@ -33,27 +33,27 @@ Total: **9,580** lines of code across **87** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.11.6` (2026-10-16)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-26
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 15,545 · **Forks**: 482 · **Open issues**: 183 · **Contributors**: 38
+- **Stars**: 15,554 · **Forks**: 482 · **Open issues**: 183 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 321 · **Open PRs**: 2 · **Closed issues**: 134 · **Open issues**: 49 · **Commits**: 731
+- **Releases**: 33 · **Merged PRs**: 322 · **Open PRs**: 2 · **Closed issues**: 134 · **Open issues**: 49 · **Commits**: 732
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 7 | 39 | 0 | 0 | 0 | 50 |
-| last60d | 2026-08-27 | 7 | 39 | 0 | 0 | 0 | 51 |
-| 90d | 2026-07-28 | 7 | 41 | 0 | 0 | 0 | 53 |
-| last180d | 2026-04-29 | 7 | 42 | 0 | 3 | 1 | 55 |
-| 360d | 2025-10-31 | 7 | 42 | 0 | 9 | 3 | 55 |
-| last720d | 2024-11-05 | 10 | 85 | 2 | 20 | 5 | 126 |
+| 30d | 2026-09-27 | 7 | 40 | 0 | 0 | 0 | 51 |
+| last60d | 2026-08-28 | 7 | 40 | 0 | 0 | 0 | 52 |
+| 90d | 2026-07-29 | 7 | 42 | 0 | 0 | 0 | 54 |
+| last180d | 2026-04-30 | 7 | 43 | 0 | 3 | 1 | 56 |
+| 360d | 2025-11-01 | 7 | 43 | 0 | 9 | 3 | 56 |
+| last720d | 2024-11-06 | 10 | 86 | 2 | 20 | 5 | 127 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:28:58Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:02:28Z._

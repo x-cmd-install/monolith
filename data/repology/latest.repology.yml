@@ -1,3 +1,23 @@
+- repo: nix_stable_25_11
+  srcname: monolith
+  visiblename: monolith
+  version: 2.10.1
+  origversion: null
+  status: outdated
+  summary: Bundle any web page into a single HTML file
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - CC0-1.0
+- repo: scoop
+  subrepo: main
+  binname: monolith
+  visiblename: monolith
+  version: 2.11.6
+  origversion: null
+  status: newest
+  licenses:
+    - Unlicense
 - repo: alpine_3_17
   subrepo: community
   srcname: monolith
@@ -286,17 +306,6 @@
     - brightone@protonmail.com
   licenses:
     - CC0-1.0
-- repo: nix_stable_25_11
-  srcname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: null
-  status: outdated
-  summary: Bundle any web page into a single HTML file
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - CC0-1.0
 - repo: nix_stable_26_05
   srcname: monolith
   visiblename: monolith
@@ -366,15 +375,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - www
-- repo: scoop
-  subrepo: main
-  binname: monolith
-  visiblename: monolith
-  version: 2.11.6
-  origversion: null
-  status: newest
-  licenses:
-    - Unlicense
 - repo: t2
   srcname: monolith
   visiblename: monolith

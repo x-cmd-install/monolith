@@ -9,13 +9,37 @@
     - brightone@protonmail.com
   licenses:
     - CC0-1.0
-- repo: scoop
-  subrepo: main
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: monolith
   binname: monolith
   visiblename: monolith
-  version: 2.11.6
+  version: 2.10.1
+  origversion: 2.10.1-1
+  status: outdated
+  summary: CLI to save web pages as single HTML files
+  licenses:
+    - CC0-1.0
+- repo: nix_stable_24_05
+  srcname: monolith
+  visiblename: monolith
+  version: 2.8.1
   origversion: null
-  status: newest
+  status: outdated
+  summary: Bundle any web page into a single HTML file
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Unlicense
+- repo: nix_stable_24_11
+  srcname: monolith
+  visiblename: monolith
+  version: 2.8.1
+  origversion: null
+  status: outdated
+  summary: Bundle any web page into a single HTML file
+  maintainers:
+    - brightone@protonmail.com
   licenses:
     - Unlicense
 - repo: alpine_3_17
@@ -107,6 +131,17 @@
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - jakub@jirutka.cz
+  licenses:
+    - CC0-1.0
+- repo: nix_stable_25_05
+  srcname: monolith
+  visiblename: monolith
+  version: 2.10.1
+  origversion: null
+  status: outdated
+  summary: Bundle any web page into a single HTML file
+  maintainers:
+    - brightone@protonmail.com
   licenses:
     - CC0-1.0
 - repo: alpine_3_24
@@ -215,7 +250,7 @@
 - repo: homebrew
   srcname: monolith
   visiblename: monolith
-  version: 2.11.6
+  version: 2.11.7
   origversion: null
   status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
@@ -232,7 +267,7 @@
   visiblename: monolith
   version: 2.11.6
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - herbygillot@github
@@ -260,50 +295,6 @@
   origversion: 2.10.1-1
   status: outdated
   summary: CLI to save web pages as single HTML files
-  licenses:
-    - CC0-1.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: 2.10.1-1
-  status: outdated
-  summary: CLI to save web pages as single HTML files
-  licenses:
-    - CC0-1.0
-- repo: nix_stable_24_05
-  srcname: monolith
-  visiblename: monolith
-  version: 2.8.1
-  origversion: null
-  status: outdated
-  summary: Bundle any web page into a single HTML file
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Unlicense
-- repo: nix_stable_24_11
-  srcname: monolith
-  visiblename: monolith
-  version: 2.8.1
-  origversion: null
-  status: outdated
-  summary: Bundle any web page into a single HTML file
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Unlicense
-- repo: nix_stable_25_05
-  srcname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: null
-  status: outdated
-  summary: Bundle any web page into a single HTML file
-  maintainers:
-    - brightone@protonmail.com
   licenses:
     - CC0-1.0
 - repo: nix_stable_26_05
@@ -369,18 +360,27 @@
   visiblename: www/monolith
   version: 2.11.6
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - pkgsrc-users@netbsd.org
   categories:
     - www
+- repo: scoop
+  subrepo: main
+  binname: monolith
+  visiblename: monolith
+  version: 2.11.7
+  origversion: null
+  status: newest
+  licenses:
+    - Unlicense
 - repo: t2
   srcname: monolith
   visiblename: monolith
   version: 2.11.6
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - rene@exactco.de
@@ -392,7 +392,7 @@
   srcname: monolith
   binname: monolith
   visiblename: monolith
-  version: 2.11.6
+  version: 2.11.7
   origversion: null
   status: newest
   summary: CLI tool for saving complete web pages as a single HTML file

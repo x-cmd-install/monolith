@@ -38,7 +38,7 @@ x install monolith
 
 ## 流行度
 
-- **Star**: 15,566 · **Fork**: 482 · **开放 issue**: 183 · **贡献者**: 39
+- **Star**: 15,569 · **Fork**: 481 · **开放 issue**: 183 · **贡献者**: 39
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install monolith
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 8 | 42 | 0 | 0 | 0 | 57 |
-| last60d | 2026-09-01 | 8 | 43 | 0 | 0 | 0 | 58 |
-| 90d | 2026-08-02 | 8 | 45 | 0 | 0 | 0 | 60 |
-| last180d | 2026-05-04 | 8 | 46 | 0 | 3 | 1 | 62 |
-| 360d | 2025-11-05 | 8 | 46 | 0 | 9 | 2 | 62 |
-| last720d | 2024-11-10 | 11 | 89 | 2 | 19 | 5 | 133 |
+| 30d | 2026-10-02 | 8 | 42 | 0 | 0 | 0 | 28 |
+| last60d | 2026-09-02 | 8 | 43 | 0 | 0 | 0 | 58 |
+| 90d | 2026-08-03 | 8 | 45 | 0 | 0 | 0 | 59 |
+| last180d | 2026-05-05 | 8 | 46 | 0 | 3 | 1 | 62 |
+| 360d | 2025-11-06 | 8 | 46 | 0 | 9 | 2 | 62 |
+| last720d | 2024-11-11 | 11 | 89 | 2 | 18 | 5 | 133 |
 
 ## Release 资产
 
@@ -72,12 +72,12 @@ x install monolith
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/monolith) 上共有 **36** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**31** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/monolith) 上共有 **36** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**30** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `2.10.1` | ⚠️ outdated |
-| Homebrew | `2.11.7` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.10.1` | ⚠️ outdated |
 | Void | `2.8.3` | ⚠️ outdated |
 | Alpine edge | `2.10.1` | ⚠️ outdated |
@@ -91,4 +91,4 @@ monolith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T06:26:03Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T06:54:29Z._

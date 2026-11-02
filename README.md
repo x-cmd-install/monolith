@@ -38,7 +38,7 @@ Total: **10,723** lines of code across **94** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,569 · **Forks**: 481 · **Open issues**: 183 · **Contributors**: 39
+- **Stars**: 15,572 · **Forks**: 481 · **Open issues**: 183 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **10,723** lines of code across **94** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 8 | 42 | 0 | 0 | 0 | 28 |
-| last60d | 2026-09-02 | 8 | 43 | 0 | 0 | 0 | 58 |
-| 90d | 2026-08-03 | 8 | 45 | 0 | 0 | 0 | 59 |
-| last180d | 2026-05-05 | 8 | 46 | 0 | 3 | 1 | 62 |
-| 360d | 2025-11-06 | 8 | 46 | 0 | 9 | 2 | 62 |
-| last720d | 2024-11-11 | 11 | 89 | 2 | 18 | 5 | 133 |
+| 30d | 2026-10-03 | 8 | 41 | 0 | 0 | 0 | 28 |
+| last60d | 2026-09-03 | 8 | 43 | 0 | 0 | 0 | 58 |
+| 90d | 2026-08-04 | 8 | 45 | 0 | 0 | 0 | 59 |
+| last180d | 2026-05-06 | 8 | 46 | 0 | 3 | 1 | 62 |
+| 360d | 2025-11-07 | 8 | 46 | 0 | 9 | 2 | 62 |
+| last720d | 2024-11-12 | 11 | 89 | 2 | 18 | 5 | 133 |
 
 ## Release assets
 
@@ -72,12 +72,12 @@ Total: **10,723** lines of code across **94** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/monolith). **4** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/monolith). **5** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.10.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.11.7` | ✅ latest |
 | Nix unstable | `2.10.1` | ⚠️ outdated |
 | Void | `2.8.3` | ⚠️ outdated |
 | Alpine edge | `2.10.1` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:54:28Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:01:00Z._

@@ -1,10 +1,14 @@
-- repo: homebrew
+- repo: nix_stable_25_05
   srcname: monolith
   visiblename: monolith
-  version: HEAD
+  version: 2.10.1
   origversion: null
-  status: rolling
-  summary: CLI tool for saving complete web pages as a single HTML file
+  status: outdated
+  summary: Bundle any web page into a single HTML file
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - CC0-1.0
 - repo: alpine_3_17
   subrepo: community
   srcname: monolith
@@ -206,13 +210,20 @@
   origversion: null
   status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
+- repo: homebrew
+  srcname: monolith
+  visiblename: monolith
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI tool for saving complete web pages as a single HTML file
 - repo: macports
   srcname: www/monolith
   binname: monolith
   visiblename: monolith
-  version: 2.11.6
+  version: 2.11.7
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - herbygillot@github
@@ -220,28 +231,6 @@
     - public-domain
   categories:
     - www
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: 2.10.1-1
-  status: outdated
-  summary: CLI to save web pages as single HTML files
-  licenses:
-    - CC0-1.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: 2.10.1-1
-  status: outdated
-  summary: CLI to save web pages as single HTML files
-  licenses:
-    - CC0-1.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: monolith
@@ -275,17 +264,6 @@
     - brightone@protonmail.com
   licenses:
     - Unlicense
-- repo: nix_stable_25_05
-  srcname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: null
-  status: outdated
-  summary: Bundle any web page into a single HTML file
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - CC0-1.0
 - repo: nix_stable_25_11
   srcname: monolith
   visiblename: monolith

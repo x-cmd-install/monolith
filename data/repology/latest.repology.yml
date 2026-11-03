@@ -1,14 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: null
-  status: outdated
-  summary: Bundle any web page into a single HTML file
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - CC0-1.0
 - repo: alpine_3_17
   subrepo: community
   srcname: monolith
@@ -113,6 +102,16 @@
     - jakub@jirutka.cz
   licenses:
     - CC0-1.0
+- repo: termux
+  srcname: monolith
+  binname: monolith
+  visiblename: monolith
+  version: 2.12.0
+  origversion: null
+  status: newest
+  summary: CLI tool for saving complete web pages as a single HTML file
+  maintainers:
+    - termux@github
 - repo: alpine_edge
   subrepo: community
   srcname: monolith
@@ -206,7 +205,7 @@
 - repo: homebrew
   srcname: monolith
   visiblename: monolith
-  version: 2.11.7
+  version: 2.12.0
   origversion: null
   status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
@@ -223,7 +222,7 @@
   visiblename: monolith
   version: 2.11.7
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - herbygillot@github
@@ -264,6 +263,17 @@
     - brightone@protonmail.com
   licenses:
     - Unlicense
+- repo: nix_stable_25_05
+  srcname: monolith
+  visiblename: monolith
+  version: 2.10.1
+  origversion: null
+  status: outdated
+  summary: Bundle any web page into a single HTML file
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - CC0-1.0
 - repo: nix_stable_25_11
   srcname: monolith
   visiblename: monolith
@@ -348,7 +358,7 @@
   subrepo: main
   binname: monolith
   visiblename: monolith
-  version: 2.11.7
+  version: 2.12.0
   origversion: null
   status: newest
   licenses:
@@ -358,7 +368,7 @@
   visiblename: monolith
   version: 2.11.7
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - rene@exactco.de
@@ -366,16 +376,6 @@
     - CC0
   categories:
     - extra/network
-- repo: termux
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.11.7
-  origversion: null
-  status: newest
-  summary: CLI tool for saving complete web pages as a single HTML file
-  maintainers:
-    - termux@github
 - repo: void_x86_64
   subrepo: x86_64
   srcname: monolith

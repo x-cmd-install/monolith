@@ -14,14 +14,14 @@ x install monolith
 
 ## Code insight
 
-Total: **10,723** lines of code across **94** files in the top 5 languages.
+Total: **11,404** lines of code across **94** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,283 | 907 | 1,438 | 76 |
+| Rust | 10,962 | 921 | 1,502 | 76 |
 | Html | 130 | 0 | 11 | 14 |
 | Yaml | 97 | 1 | 4 | 2 |
-| Toml | 91 | 1 | 9 | 1 |
+| Toml | 93 | 1 | 9 | 1 |
 | Makefile | 35 | 2 | 12 | 1 |
 
 ## Source
@@ -32,52 +32,52 @@ Total: **10,723** lines of code across **94** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.11.7` (2026-10-29)
-- **Last commit**: 2026-10-31
+- **Latest**: `v2.12.0` (2026-11-02)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 15,572 · **Forks**: 481 · **Open issues**: 183 · **Contributors**: 39
+- **Stars**: 15,574 · **Forks**: 482 · **Open issues**: 183 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 325 · **Open PRs**: 2 · **Closed issues**: 136 · **Open issues**: 47 · **Commits**: 738
+- **Releases**: 35 · **Merged PRs**: 326 · **Open PRs**: 2 · **Closed issues**: 136 · **Open issues**: 47 · **Commits**: 740
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 8 | 41 | 0 | 0 | 0 | 28 |
-| last60d | 2026-09-03 | 8 | 43 | 0 | 0 | 0 | 58 |
-| 90d | 2026-08-04 | 8 | 45 | 0 | 0 | 0 | 59 |
-| last180d | 2026-05-06 | 8 | 46 | 0 | 3 | 1 | 62 |
-| 360d | 2025-11-07 | 8 | 46 | 0 | 9 | 2 | 62 |
-| last720d | 2024-11-12 | 11 | 89 | 2 | 18 | 5 | 133 |
+| 30d | 2026-10-04 | 9 | 37 | 0 | 0 | 0 | 30 |
+| last60d | 2026-09-04 | 9 | 44 | 0 | 0 | 0 | 60 |
+| 90d | 2026-08-05 | 9 | 46 | 0 | 0 | 0 | 61 |
+| last180d | 2026-05-07 | 9 | 47 | 0 | 3 | 1 | 64 |
+| 360d | 2025-11-08 | 9 | 47 | 0 | 9 | 2 | 64 |
+| last720d | 2024-11-13 | 12 | 90 | 2 | 18 | 5 | 135 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Monolith-aarch64.AppImage](https://github.com/y2z/monolith/releases/download/v2.11.7/Monolith-aarch64.AppImage) | 31.0 MiB | `other` |
-| [monolith-cli-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.11.7/monolith-cli-linux-aarch64) | 7.0 MiB | `native/linux/arm64` |
-| [monolith-cli-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.11.7/monolith-cli-linux-armhf) | 6.0 MiB | `native/linux/arm` |
-| [monolith-cli-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.11.7/monolith-cli-linux-x86_64) | 7.8 MiB | `native/linux/x64` |
-| [monolith-cli-macos-aarch64-apple-darwin](https://github.com/y2z/monolith/releases/download/v2.11.7/monolith-cli-macos-aarch64-apple-darwin) | 5.9 MiB | `native/darwin/arm64` |
-| [monolith-cli-macos-x86_64-apple-darwin](https://github.com/y2z/monolith/releases/download/v2.11.7/monolith-cli-macos-x86_64-apple-darwin) | 7.2 MiB | `native/darwin/x64` |
-| [monolith-cli.exe](https://github.com/y2z/monolith/releases/download/v2.11.7/monolith-cli.exe) | 5.2 MiB | `other` |
-| [Monolith-macos.zip](https://github.com/y2z/monolith/releases/download/v2.11.7/Monolith-macos.zip) | 10.8 MiB | `native/darwin/x64` |
-| [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.11.7/Monolith-x86_64.AppImage) | 34.0 MiB | `other` |
-| [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.11.7/Monolith.exe) | 10.1 MiB | `other` |
+| [Monolith-aarch64.AppImage](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith-aarch64.AppImage) | 31.1 MiB | `other` |
+| [monolith-cli-linux-aarch64](https://github.com/y2z/monolith/releases/download/v2.12.0/monolith-cli-linux-aarch64) | 7.0 MiB | `native/linux/arm64` |
+| [monolith-cli-linux-armhf](https://github.com/y2z/monolith/releases/download/v2.12.0/monolith-cli-linux-armhf) | 6.0 MiB | `native/linux/arm` |
+| [monolith-cli-linux-x86_64](https://github.com/y2z/monolith/releases/download/v2.12.0/monolith-cli-linux-x86_64) | 7.9 MiB | `native/linux/x64` |
+| [monolith-cli-macos-aarch64-apple-darwin](https://github.com/y2z/monolith/releases/download/v2.12.0/monolith-cli-macos-aarch64-apple-darwin) | 5.9 MiB | `native/darwin/arm64` |
+| [monolith-cli-macos-x86_64-apple-darwin](https://github.com/y2z/monolith/releases/download/v2.12.0/monolith-cli-macos-x86_64-apple-darwin) | 7.3 MiB | `native/darwin/x64` |
+| [monolith-cli.exe](https://github.com/y2z/monolith/releases/download/v2.12.0/monolith-cli.exe) | 5.3 MiB | `other` |
+| [Monolith-macos.zip](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith-macos.zip) | 11.1 MiB | `native/darwin/x64` |
+| [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith-x86_64.AppImage) | 34.1 MiB | `other` |
+| [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith.exe) | 10.4 MiB | `other` |
 
 ## Distribution status
 
-Reported by **34** distros on [repology.org](https://repology.org/project/monolith). **5** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/monolith). **3** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.10.1` | ⚠️ outdated |
-| Homebrew | `2.11.7` | ✅ latest |
+| Homebrew | `2.12.0` | ✅ latest |
 | Nix unstable | `2.10.1` | ⚠️ outdated |
 | Void | `2.8.3` | ⚠️ outdated |
 | Alpine edge | `2.10.1` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:01:00Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:46:22Z._

@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7343384,
       "digest": "sha256:1933940d489c730e8a665dd81681bc6f3f4f3c6265dc3b3066765503626d0389",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-11-02T13:57:48Z",
       "updated_at": "2026-11-02T13:57:49Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/monolith-cli-linux-aarch64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6306080,
       "digest": "sha256:15c54c1937048756a7c7f3e2d14948cc02dcacbce9566603b27e5adf3a693b72",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-02T13:58:03Z",
       "updated_at": "2026-11-02T13:58:04Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/monolith-cli-linux-armhf"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8276120,
       "digest": "sha256:5d6db497e19b51db0c95362b41c966d2e4b18ecd415795f7ac2d324fd5adbcf6",
-      "download_count": 35,
+      "download_count": 86,
       "created_at": "2026-11-02T13:57:26Z",
       "updated_at": "2026-11-02T13:57:27Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/monolith-cli-linux-x86_64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6227984,
       "digest": "sha256:2dc89a796d9c6932e7c7c7a6d58011ec7d99b9c6f454619283664e2aeb0148a9",
-      "download_count": 7,
+      "download_count": 12,
       "created_at": "2026-11-02T13:58:23Z",
       "updated_at": "2026-11-02T13:58:24Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/monolith-cli-macos-aarch64-apple-darwin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7624472,
       "digest": "sha256:fcb8261e2ab45ab047bf05336cc7f5cfc472afb2d821be1e309d630b676f891c",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-02T13:58:13Z",
       "updated_at": "2026-11-02T13:58:14Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/monolith-cli-macos-x86_64-apple-darwin"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5539328,
       "digest": "sha256:ed21a1062e3c07f4bed05e4bfccaa872aa2a36ac07aa0eb0de807ea956953eed",
-      "download_count": 73,
+      "download_count": 107,
       "created_at": "2026-11-02T13:59:01Z",
       "updated_at": "2026-11-02T13:59:01Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/monolith-cli.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 11632668,
       "digest": "sha256:a227a84aadc299c8e4a8df4307bfde9b876cbcc7c86cc8367e7366829464f5d1",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-02T14:04:26Z",
       "updated_at": "2026-11-02T14:04:27Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/Monolith-macos.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 35763392,
       "digest": "sha256:454e136da53c5671da56820e581fdc39d928f63bc2a581083b19cb4efbe2be66",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-02T14:00:18Z",
       "updated_at": "2026-11-02T14:00:20Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/Monolith-x86_64.AppImage"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 10945024,
       "digest": "sha256:df0091559c9e776c1f4461d267d670c2895f6ea67691a0bceef48c11cdc49a22",
-      "download_count": 50,
+      "download_count": 56,
       "created_at": "2026-11-02T14:00:42Z",
       "updated_at": "2026-11-02T14:00:43Z",
       "browser_download_url": "https://github.com/Y2Z/monolith/releases/download/v2.12.0/Monolith.exe"

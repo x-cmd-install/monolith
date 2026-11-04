@@ -102,16 +102,6 @@
     - jakub@jirutka.cz
   licenses:
     - CC0-1.0
-- repo: termux
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.12.0
-  origversion: null
-  status: newest
-  summary: CLI tool for saving complete web pages as a single HTML file
-  maintainers:
-    - termux@github
 - repo: alpine_edge
   subrepo: community
   srcname: monolith
@@ -186,12 +176,12 @@
   srcname: www/monolith
   binname: monolith
   visiblename: www/monolith
-  version: 2.11.5
+  version: 2.11.6
   origversion: null
   status: outdated
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
-    - lcook@freebsd.org
+    - tagattie@freebsd.org
   categories:
     - www
 - repo: gnuguix
@@ -376,6 +366,16 @@
     - CC0
   categories:
     - extra/network
+- repo: termux
+  srcname: monolith
+  binname: monolith
+  visiblename: monolith
+  version: 2.12.0
+  origversion: null
+  status: newest
+  summary: CLI tool for saving complete web pages as a single HTML file
+  maintainers:
+    - termux@github
 - repo: void_x86_64
   subrepo: x86_64
   srcname: monolith

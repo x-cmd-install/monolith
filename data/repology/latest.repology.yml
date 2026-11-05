@@ -142,6 +142,17 @@
   summary: CLI to save web pages as single HTML files
   licenses:
     - CC0-1.0
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: monolith
+  binname: monolith
+  visiblename: monolith
+  version: 2.10.1
+  origversion: 2.10.1-2
+  status: outdated
+  summary: CLI to save web pages as single HTML files
+  licenses:
+    - CC0-1.0
 - repo: aur
   srcname: monolith-git
   binname: monolith-git
@@ -176,9 +187,9 @@
   srcname: www/monolith
   binname: monolith
   visiblename: www/monolith
-  version: 2.11.6
+  version: 2.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - tagattie@freebsd.org

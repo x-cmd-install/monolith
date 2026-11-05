@@ -14,11 +14,11 @@ x install monolith
 
 ## Code insight
 
-Total: **11,404** lines of code across **94** files in the top 5 languages.
+Total: **12,818** lines of code across **97** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,962 | 921 | 1,502 | 76 |
+| Rust | 12,376 | 940 | 1,709 | 79 |
 | Html | 130 | 0 | 11 | 14 |
 | Yaml | 97 | 1 | 4 | 2 |
 | Toml | 93 | 1 | 9 | 1 |
@@ -33,27 +33,27 @@ Total: **11,404** lines of code across **94** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.12.0` (2026-11-02)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-05
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 15,577 · **Forks**: 482 · **Open issues**: 183 · **Contributors**: 39
+- **Stars**: 15,581 · **Forks**: 484 · **Open issues**: 183 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 326 · **Open PRs**: 2 · **Closed issues**: 136 · **Open issues**: 47 · **Commits**: 740
+- **Releases**: 35 · **Merged PRs**: 328 · **Open PRs**: 2 · **Closed issues**: 136 · **Open issues**: 47 · **Commits**: 744
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 9 | 33 | 0 | 0 | 0 | 30 |
-| last60d | 2026-09-05 | 9 | 44 | 0 | 0 | 0 | 60 |
-| 90d | 2026-08-06 | 9 | 46 | 0 | 0 | 0 | 61 |
-| last180d | 2026-05-08 | 9 | 47 | 0 | 3 | 1 | 64 |
-| 360d | 2025-11-09 | 9 | 47 | 0 | 9 | 2 | 64 |
-| last720d | 2024-11-14 | 12 | 90 | 2 | 18 | 5 | 135 |
+| 30d | 2026-10-06 | 7 | 31 | 0 | 0 | 0 | 34 |
+| last60d | 2026-09-06 | 9 | 46 | 0 | 0 | 0 | 64 |
+| 90d | 2026-08-07 | 9 | 48 | 0 | 0 | 0 | 65 |
+| last180d | 2026-05-09 | 9 | 49 | 0 | 3 | 1 | 68 |
+| 360d | 2025-11-10 | 9 | 49 | 0 | 9 | 2 | 68 |
+| last720d | 2024-11-15 | 12 | 92 | 2 | 18 | 5 | 139 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Total: **11,404** lines of code across **94** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **34** distros on [repology.org](https://repology.org/project/monolith). **3** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **35** distros on [repology.org](https://repology.org/project/monolith). **4** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:31:33Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:37:08Z._

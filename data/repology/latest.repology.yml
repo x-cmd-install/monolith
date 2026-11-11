@@ -1,14 +1,10 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: monolith
+- repo: chocolatey
   binname: monolith
-  visiblename: monolith
+  visiblename: Monolith
   version: 2.10.1
-  origversion: 2.10.1-1
+  origversion: null
   status: outdated
-  summary: CLI to save web pages as single HTML files
-  licenses:
-    - CC0-1.0
+  summary: ⬛️ CLI tool for saving complete web pages as a single HTML file
 - repo: alpine_3_17
   subrepo: community
   srcname: monolith
@@ -148,17 +144,6 @@
   binname: monolith
   visiblename: monolith
   version: 2.10.1
-  origversion: 2.10.1-1
-  status: outdated
-  summary: CLI to save web pages as single HTML files
-  licenses:
-    - CC0-1.0
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.10.1
   origversion: 2.10.1-2
   status: outdated
   summary: CLI to save web pages as single HTML files
@@ -187,13 +172,6 @@
   summary: CLI tool for saving complete web pages as a single HTML file
   licenses:
     - CC0-1.0
-- repo: chocolatey
-  binname: monolith
-  visiblename: Monolith
-  version: 2.10.1
-  origversion: null
-  status: outdated
-  summary: ⬛️ CLI tool for saving complete web pages as a single HTML file
 - repo: freebsd
   srcname: www/monolith
   binname: monolith
@@ -260,6 +238,17 @@
   visiblename: monolith
   version: 2.10.1
   origversion: 2.10.1-1
+  status: outdated
+  summary: CLI to save web pages as single HTML files
+  licenses:
+    - CC0-1.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: monolith
+  binname: monolith
+  visiblename: monolith
+  version: 2.10.1
+  origversion: 2.10.1-2
   status: outdated
   summary: CLI to save web pages as single HTML files
   licenses:

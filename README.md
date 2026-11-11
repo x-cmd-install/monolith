@@ -38,7 +38,7 @@ Total: **21,773** lines of code across **161** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,598 · **Forks**: 483 · **Open issues**: 184 · **Contributors**: 39
+- **Stars**: 15,601 · **Forks**: 483 · **Open issues**: 184 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **21,773** lines of code across **161** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 5 | 24 | 0 | 0 | 1 | 26 |
-| last60d | 2026-09-11 | 9 | 48 | 0 | 0 | 1 | 66 |
-| 90d | 2026-08-12 | 9 | 49 | 0 | 0 | 1 | 66 |
-| last180d | 2026-05-14 | 9 | 51 | 0 | 3 | 2 | 70 |
-| 360d | 2025-11-15 | 9 | 51 | 0 | 9 | 3 | 70 |
-| last720d | 2024-11-20 | 12 | 94 | 2 | 18 | 6 | 141 |
+| 30d | 2026-10-12 | 5 | 19 | 0 | 0 | 1 | 26 |
+| last60d | 2026-09-12 | 9 | 48 | 0 | 0 | 1 | 66 |
+| 90d | 2026-08-13 | 9 | 49 | 0 | 0 | 1 | 66 |
+| last180d | 2026-05-15 | 9 | 51 | 0 | 3 | 2 | 70 |
+| 360d | 2025-11-16 | 9 | 51 | 0 | 9 | 3 | 70 |
+| last720d | 2024-11-21 | 12 | 94 | 2 | 18 | 6 | 141 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Total: **21,773** lines of code across **161** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **37** distros on [repology.org](https://repology.org/project/monolith). **6** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/monolith). **6** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:21:14Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:23:38Z._

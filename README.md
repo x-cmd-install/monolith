@@ -14,14 +14,14 @@ x install monolith
 
 ## Code insight
 
-Total: **21,773** lines of code across **161** files in the top 5 languages.
+Total: **22,111** lines of code across **162** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 20,778 | 1,337 | 2,846 | 140 |
+| Rust | 21,115 | 1,337 | 2,883 | 141 |
 | JavaScript | 547 | 31 | 44 | 4 |
 | Html | 130 | 0 | 11 | 14 |
-| Toml | 109 | 1 | 10 | 1 |
+| Toml | 110 | 1 | 10 | 1 |
 | Yaml | 97 | 1 | 4 | 2 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **21,773** lines of code across **161** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.12.0` (2026-11-02)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 15,601 · **Forks**: 483 · **Open issues**: 184 · **Contributors**: 39
+- **Stars**: 15,602 · **Forks**: 482 · **Open issues**: 184 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 330 · **Open PRs**: 2 · **Closed issues**: 136 · **Open issues**: 48 · **Commits**: 746
+- **Releases**: 35 · **Merged PRs**: 331 · **Open PRs**: 2 · **Closed issues**: 136 · **Open issues**: 48 · **Commits**: 756
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 5 | 19 | 0 | 0 | 1 | 26 |
-| last60d | 2026-09-12 | 9 | 48 | 0 | 0 | 1 | 66 |
-| 90d | 2026-08-13 | 9 | 49 | 0 | 0 | 1 | 66 |
-| last180d | 2026-05-15 | 9 | 51 | 0 | 3 | 2 | 70 |
-| 360d | 2025-11-16 | 9 | 51 | 0 | 9 | 3 | 70 |
-| last720d | 2024-11-21 | 12 | 94 | 2 | 18 | 6 | 141 |
+| 30d | 2026-10-13 | 3 | 20 | 0 | 0 | 1 | 36 |
+| last60d | 2026-09-13 | 9 | 49 | 0 | 0 | 1 | 76 |
+| 90d | 2026-08-14 | 9 | 50 | 0 | 0 | 1 | 76 |
+| last180d | 2026-05-16 | 9 | 52 | 0 | 3 | 2 | 80 |
+| 360d | 2025-11-17 | 9 | 52 | 0 | 9 | 3 | 80 |
+| last720d | 2024-11-22 | 12 | 95 | 2 | 18 | 6 | 151 |
 
 ## Release assets
 
@@ -72,13 +72,13 @@ Total: **21,773** lines of code across **161** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/monolith). **6** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/monolith). **7** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.10.1` | ⚠️ outdated |
 | Homebrew | `2.12.0` | ✅ latest |
-| Nix unstable | `2.10.1` | ⚠️ outdated |
+| Nix unstable | `2.12.0` | ✅ latest |
 | Void | `2.8.3` | ⚠️ outdated |
 | Alpine edge | `2.10.1` | ⚠️ outdated |
 
@@ -91,4 +91,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:23:38Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:38:15Z._

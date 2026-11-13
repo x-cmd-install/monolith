@@ -14,46 +14,46 @@ x install monolith
 
 ## Code insight
 
-Total: **22,111** lines of code across **162** files in the top 5 languages.
+Total: **25,886** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,115 | 1,337 | 2,883 | 141 |
-| JavaScript | 547 | 31 | 44 | 4 |
+| Rust | 24,847 | 1,468 | 3,359 | 153 |
+| JavaScript | 590 | 36 | 45 | 4 |
 | Html | 130 | 0 | 11 | 14 |
-| Toml | 110 | 1 | 10 | 1 |
+| Toml | 109 | 1 | 10 | 1 |
 | Yaml | 97 | 1 | 4 | 2 |
 
 ## Source
 
 - **Upstream**: <https://github.com/y2z/monolith>
 - **Homepage**: <https://crates.io/crates/monolith>
-- **License**: CC0-1.0
+- **License**: 0BSD
 
 ## Release
 
 - **Latest**: `v2.12.0` (2026-11-02)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-13
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 15,602 · **Forks**: 482 · **Open issues**: 184 · **Contributors**: 39
+- **Stars**: 15,603 · **Forks**: 483 · **Open issues**: 186 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 331 · **Open PRs**: 2 · **Closed issues**: 136 · **Open issues**: 48 · **Commits**: 756
+- **Releases**: 35 · **Merged PRs**: 341 · **Open PRs**: 3 · **Closed issues**: 138 · **Open issues**: 48 · **Commits**: 774
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 20 | 0 | 0 | 1 | 36 |
-| last60d | 2026-09-13 | 9 | 49 | 0 | 0 | 1 | 76 |
-| 90d | 2026-08-14 | 9 | 50 | 0 | 0 | 1 | 76 |
-| last180d | 2026-05-16 | 9 | 52 | 0 | 3 | 2 | 80 |
-| 360d | 2025-11-17 | 9 | 52 | 0 | 9 | 3 | 80 |
-| last720d | 2024-11-22 | 12 | 95 | 2 | 18 | 6 | 151 |
+| 30d | 2026-10-14 | 3 | 30 | 1 | 1 | 2 | 54 |
+| last60d | 2026-09-14 | 9 | 59 | 1 | 1 | 2 | 94 |
+| 90d | 2026-08-15 | 9 | 60 | 1 | 1 | 2 | 94 |
+| last180d | 2026-05-17 | 9 | 62 | 1 | 4 | 3 | 98 |
+| 360d | 2025-11-18 | 9 | 62 | 1 | 10 | 4 | 98 |
+| last720d | 2024-11-23 | 12 | 105 | 3 | 19 | 7 | 169 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:38:15Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:56:54Z._

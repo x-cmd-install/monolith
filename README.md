@@ -38,7 +38,7 @@ Total: **29,542** lines of code across **198** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,606 · **Forks**: 485 · **Open issues**: 186 · **Contributors**: 39
+- **Stars**: 15,608 · **Forks**: 485 · **Open issues**: 186 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **29,542** lines of code across **198** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 3 | 24 | 0 | 2 | 1 | 52 |
-| last60d | 2026-09-16 | 9 | 62 | 0 | 2 | 1 | 102 |
-| 90d | 2026-08-17 | 9 | 62 | 0 | 2 | 1 | 102 |
-| last180d | 2026-05-19 | 9 | 65 | 0 | 5 | 2 | 104 |
-| 360d | 2025-11-20 | 9 | 65 | 0 | 11 | 3 | 106 |
-| last720d | 2024-11-25 | 12 | 108 | 2 | 20 | 6 | 177 |
+| 30d | 2026-10-17 | 2 | 24 | 0 | 2 | 1 | 52 |
+| last60d | 2026-09-17 | 9 | 62 | 0 | 2 | 1 | 102 |
+| 90d | 2026-08-18 | 9 | 62 | 0 | 2 | 1 | 102 |
+| last180d | 2026-05-20 | 9 | 65 | 0 | 5 | 2 | 104 |
+| 360d | 2025-11-21 | 9 | 65 | 0 | 11 | 3 | 106 |
+| last720d | 2024-11-26 | 12 | 108 | 2 | 20 | 6 | 177 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:31:43Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:56:47Z._

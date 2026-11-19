@@ -38,22 +38,22 @@ x install monolith
 
 ## 流行度
 
-- **Star**: 15,609 · **Fork**: 485 · **开放 issue**: 186 · **贡献者**: 39
+- **Star**: 15,613 · **Fork**: 484 · **开放 issue**: 186 · **贡献者**: 39
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 344 · **开放 PR**: 2 · **已关闭 issue**: 139 · **开放 issue**: 47 · **提交数**: 782
+- **发布数**: 35 · **已合并 PR**: 344 · **开放 PR**: 1 · **已关闭 issue**: 139 · **开放 issue**: 47 · **提交数**: 782
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 24 | 0 | 2 | 1 | 52 |
-| last60d | 2026-09-18 | 9 | 62 | 0 | 2 | 1 | 102 |
-| 90d | 2026-08-19 | 9 | 62 | 0 | 2 | 1 | 102 |
-| last180d | 2026-05-21 | 9 | 65 | 0 | 5 | 2 | 104 |
-| 360d | 2025-11-22 | 9 | 65 | 0 | 11 | 3 | 106 |
-| last720d | 2024-11-27 | 12 | 108 | 2 | 20 | 6 | 177 |
+| 30d | 2026-10-20 | 2 | 24 | 0 | 2 | 1 | 52 |
+| last60d | 2026-09-20 | 9 | 62 | 0 | 2 | 1 | 102 |
+| 90d | 2026-08-21 | 9 | 62 | 0 | 2 | 1 | 102 |
+| last180d | 2026-05-23 | 9 | 64 | 0 | 5 | 2 | 104 |
+| 360d | 2025-11-24 | 9 | 65 | 0 | 11 | 3 | 106 |
+| last720d | 2024-11-29 | 12 | 108 | 1 | 19 | 6 | 177 |
 
 ## Release 资产
 
@@ -70,6 +70,18 @@ x install monolith
 | [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith-x86_64.AppImage) | 34.1 MiB | `other` |
 | [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith.exe) | 10.4 MiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/monolith) 上共有 **36** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**27** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `2.10.1` | ⚠️ outdated |
+| Homebrew | `2.12.0` | ✅ latest |
+| Nix unstable | `2.12.0` | ✅ latest |
+| Void | `2.8.3` | ⚠️ outdated |
+| Alpine edge | `2.10.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 monolith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `monolith` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -79,4 +91,4 @@ monolith 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:32:49Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:59:17Z._

@@ -1,19 +1,38 @@
-- repo: scoop
-  subrepo: main
+- repo: parabola
+  subrepo: extra
+  srcname: monolith
   binname: monolith
+  visiblename: monolith
+  version: 2.10.1
+  origversion: 2.10.1-1
+  status: outdated
+  summary: CLI to save web pages as single HTML files
+  licenses:
+    - CC0-1.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: monolith
+  binname: monolith
+  visiblename: monolith
+  version: 2.7.0
+  origversion: 2.7.0-r1
+  status: outdated
+  summary: CLI tool for saving complete web pages as a single HTML file
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - CC0-1.0
+- repo: nix_unstable
+  srcname: monolith
   visiblename: monolith
   version: 2.12.0
   origversion: null
   status: newest
+  summary: Bundle any web page into a single HTML file
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
-    - Unlicense
-- repo: chocolatey
-  binname: monolith
-  visiblename: Monolith
-  version: 2.11.3
-  origversion: null
-  status: outdated
-  summary: ⬛️ CLI tool for saving complete web pages as a single HTML file
+    - CC0-1.0
 - repo: alpine_3_17
   subrepo: community
   srcname: monolith
@@ -40,19 +59,6 @@
     - jakub@jirutka.cz
   licenses:
     - CC0-1.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.7.0
-  origversion: 2.7.0-r1
-  status: outdated
-  summary: CLI tool for saving complete web pages as a single HTML file
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - CC0-1.0
 - repo: alpine_3_20
   subrepo: community
   srcname: monolith
@@ -66,6 +72,13 @@
     - jakub@jirutka.cz
   licenses:
     - CC0-1.0
+- repo: homebrew
+  srcname: monolith
+  visiblename: monolith
+  version: 2.12.0
+  origversion: null
+  status: newest
+  summary: CLI tool for saving complete web pages as a single HTML file
 - repo: alpine_3_21
   subrepo: community
   srcname: monolith
@@ -181,6 +194,13 @@
   summary: CLI tool for saving complete web pages as a single HTML file
   licenses:
     - CC0-1.0
+- repo: chocolatey
+  binname: monolith
+  visiblename: Monolith
+  version: 2.11.3
+  origversion: null
+  status: outdated
+  summary: ⬛️ CLI tool for saving complete web pages as a single HTML file
 - repo: freebsd
   srcname: www/monolith
   binname: monolith
@@ -201,13 +221,6 @@
   origversion: null
   status: outdated
   summary: Command line tool for saving web pages as a single HTML file
-- repo: homebrew
-  srcname: monolith
-  visiblename: monolith
-  version: 2.12.0
-  origversion: null
-  status: newest
-  summary: CLI tool for saving complete web pages as a single HTML file
 - repo: homebrew
   srcname: monolith
   visiblename: monolith
@@ -317,28 +330,6 @@
     - fallback-mnt-nix@repology
   licenses:
     - CC0-1.0
-- repo: nix_unstable
-  srcname: monolith
-  visiblename: monolith
-  version: 2.12.0
-  origversion: null
-  status: newest
-  summary: Bundle any web page into a single HTML file
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - CC0-1.0
-- repo: parabola
-  subrepo: extra
-  srcname: monolith
-  binname: monolith
-  visiblename: monolith
-  version: 2.10.1
-  origversion: 2.10.1-1
-  status: outdated
-  summary: CLI to save web pages as single HTML files
-  licenses:
-    - CC0-1.0
 - repo: pkgsrc_2026_2
   srcname: www/monolith
   binname: monolith
@@ -367,14 +358,23 @@
   srcname: www/monolith
   binname: monolith
   visiblename: www/monolith
-  version: 2.11.6
+  version: 2.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for saving complete web pages as a single HTML file
   maintainers:
     - pkgsrc-users@netbsd.org
   categories:
     - www
+- repo: scoop
+  subrepo: main
+  binname: monolith
+  visiblename: monolith
+  version: 2.12.0
+  origversion: null
+  status: newest
+  licenses:
+    - Unlicense
 - repo: t2
   srcname: monolith
   visiblename: monolith

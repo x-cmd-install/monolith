@@ -48,12 +48,12 @@ Total: **29,605** lines of code across **198** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 23 | 0 | 2 | 1 | 46 |
-| last60d | 2026-09-28 | 9 | 63 | 0 | 2 | 1 | 102 |
-| 90d | 2026-08-29 | 9 | 63 | 0 | 2 | 1 | 103 |
-| last180d | 2026-05-31 | 9 | 65 | 0 | 5 | 2 | 105 |
-| 360d | 2025-12-02 | 9 | 66 | 0 | 11 | 3 | 107 |
-| last720d | 2024-12-07 | 12 | 107 | 1 | 19 | 6 | 177 |
+| 30d | 2026-10-29 | 2 | 21 | 0 | 2 | 1 | 0 |
+| last60d | 2026-09-29 | 9 | 62 | 0 | 2 | 1 | 0 |
+| 90d | 2026-08-30 | 9 | 63 | 0 | 2 | 1 | 0 |
+| last180d | 2026-06-01 | 9 | 65 | 0 | 5 | 2 | 0 |
+| 360d | 2025-12-03 | 9 | 66 | 0 | 11 | 3 | 0 |
+| last720d | 2024-12-08 | 12 | 107 | 1 | 19 | 6 | 177 |
 
 ## Release assets
 
@@ -70,18 +70,6 @@ Total: **29,605** lines of code across **198** files in the top 5 languages.
 | [Monolith-x86_64.AppImage](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith-x86_64.AppImage) | 34.1 MiB | `other` |
 | [Monolith.exe](https://github.com/y2z/monolith/releases/download/v2.12.0/Monolith.exe) | 10.4 MiB | `other` |
 
-## Distribution status
-
-Reported by **36** distros on [repology.org](https://repology.org/project/monolith). **8** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.10.1` | ⚠️ outdated |
-| Homebrew | `2.12.0` | ✅ latest |
-| Nix unstable | `2.12.0` | ✅ latest |
-| Void | `2.8.3` | ⚠️ outdated |
-| Alpine edge | `2.10.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `monolith` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +79,4 @@ Install metadata for monolith lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:08:59Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:28:52Z._
